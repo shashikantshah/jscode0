@@ -1,6 +1,10 @@
 # jscode0
 Take value from cookie and set the value to who has class name "lang" but before replacing old value.
 
+important url->
+1->https://www.w3schools.com/howto/howto_js_draggable.asp
+
+
 Refer the url 
 1-Query-String -> https://codingbeautydev.com/blog/javascript-remove-query-string-from-url/
 2-Remove URL parameters without refreshing page->
