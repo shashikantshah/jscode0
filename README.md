@@ -17,3 +17,7 @@ Refer the url
     https://www.geodatasource.com/resources/tutorials/how-to-use-amcharts-with-country-region-dropdown-menu/
 6- amCharts 5 Documentation
    https://www.amcharts.com/docs/v5/
+   
+   
+   javascripts array methods links->
+   https://medium.com/@mandeepkaur1/a-list-of-javascript-array-methods-145d09dd19a0
