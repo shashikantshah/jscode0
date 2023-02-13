@@ -21,3 +21,6 @@ Refer the url
    
    javascripts array methods links->
    https://medium.com/@mandeepkaur1/a-list-of-javascript-array-methods-145d09dd19a0
+   
+   javascripts string megthods links ->
+   https://www.programiz.com/javascript/library/string
